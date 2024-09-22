@@ -7,20 +7,23 @@
 <br>
 
 # 👀 About Us
+We are a members group of Google's world wide network of developer groups **(GDG)**, aiming to connect like-minded individuals passisonated and curios about all things considering **data systems in machine learning**.
+To reach this goal, we offer a wide range of exciting events such as:
 
-We are a volunteer-run, official chapter of Google's worldwide developer network, known as Google Developer Groups (GDGs).
+- Speaker Series
+- (Paper)-Reading Groups
+- Hackathons
+- Social Gatherings/Events
+- and many more exciting things to come ... 
 
-We bring together curious minds from all walks of life in **Vienna, Austria**.
 
-Our focus lies on **data systems and machine learning**.
 
-We aim to follow in the footsteps of our friends at [BLISS Berlin](https://bliss.berlin/) and provide speaker series, reading groups, hackathons and social events.
 
-<!--
+Our vision is to build a strong, vibrant and energetic community that fosters the growth and development of all it's members. 
+Everyone should be welcomed, especially those who think differently: the misfists, the rebels, the troublemakers and the round pegs in square holes that are curious about the world we live in.
+We therefore strive to create a space where unconventional ideas can flourish and where every member is encouraged to explore boundaries.
+So, don't hestiate, we'd like to welcome you in our group.
 
-What makes Vienna special? There is more to Vienna than meets the eye. Beneath the surface of our beloved "Wiener Grantln" (Viennese grumbling), lies a vibrant alternative scene that has played a crucial role in the hacker movement across the world. At the forefront of this movement is *Metalab*, a hackerspace founded in 2006, which led to the emergence of groups across Europe and even across the Atlantic: From the renowned *Chaos Computer Club (CCC)* and *c-base* in Berlin, *NYC Resistor* in New York and *Noisebridge* in San Francisco. These spaces share a commitment to fostering creativity, collaboration and technological innovation within an open and inclusive environment. We want to embrace this culture and celebrate those who think differently: the misfits, the rebels, the troublemakers and the round pegs in square holes. We strive to create a space where unconventional ideas can flourish and where everyone is encouraged to explore boundaries.
-
--->
 
 <br>
 
@@ -30,7 +33,34 @@ What makes Vienna special? There is more to Vienna than meets the eye. Beneath t
 > 
 > – Erich Kästner, 1950
 
-We've just gotten started, and there are many ways you can contribute. Whether you're a partner, volunteer or aspiring organizer, we have opportunities for everyone to get involved and make a difference.
+In case you want to join our organisation, you can either join us a *general member* if you just want to join our upcomming events or you can *activetly contribute* to further enhance the quality of our group and offerings.
+
+
+### Contributing
+
+#### Who can contribute ? 
+**Anyone!** It doesnt matter if you are young, old, student, professional, just started your DS/ML journey or if you are already reaching the hights of (theoretical) state-of-the-art research. We strongly believe that every (passionate and curiose) person has a lot to contribute to our events.
+
+
+#### What can be contributed
+**
+As We've just gotten started, there are many ways in which you can contribute use, regardless of your experience level or potential time contraints.
+
+
+#### How does contributing look like? 
+
+
+and there are many ways you can contribute, regardless of your experience level or potential time constraints. 
+Generally speaking, following catogories of contribution
+
+
+#### How to get started
+
+
+
+
+
+Whether you're a partner, volunteer or aspiring organizer, we have opportunities for everyone to get involved and make a difference.
 
 *For Partners*:
 
